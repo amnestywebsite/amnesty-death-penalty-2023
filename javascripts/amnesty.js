@@ -18,7 +18,7 @@ var center = [width / 2, height * 0.567];// For some reason, the height needs to
 
 var startYear = '2022';
 var maxYear = '2022';
-var minYear = '2009';
+var minYear = '2010';
 var currentYear = startYear;
 var tooltip = d3.select("#map").append("div").attr("class", "tooltip hidden");
 var tooltipOffset;
