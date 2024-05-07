@@ -16886,8 +16886,8 @@
             "id":"PNG",
             "name":"PAPUA NEW GUINEA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -17476,8 +17476,8 @@
             "id":"ATG",
             "name":"ANTIGUA AND BARBUDA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -17524,8 +17524,8 @@
             "id":"BHS",
             "name":"BAHAMAS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -17548,8 +17548,8 @@
             "id":"BRB",
             "name":"BARBADOS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -17572,8 +17572,8 @@
             "id":"BLZ",
             "name":"BELIZE",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -17620,16 +17620,16 @@
             "id":"BRA",
             "name":"BRAZIL",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"BRN",
             "name":"BRUNEI DARUSSALAM",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -17644,8 +17644,8 @@
             "id":"BFA",
             "name":"BURKINA FASO",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -17692,8 +17692,8 @@
             "id":"CAF",
             "name":"CENTRAL AFRICAN REPUBLIC",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -17709,8 +17709,8 @@
             "id":"CHL",
             "name":"CHILE",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -17791,8 +17791,8 @@
             "id":"CUB",
             "name":"CUBA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -17839,8 +17839,8 @@
             "id":"DMA",
             "name":"DOMINICA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -17871,24 +17871,24 @@
             "id":"SLV",
             "name":"EL SALVADOR",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"GNQ",
             "name":"EQUATORIAL GUINEA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"ERI",
             "name":"ERITREA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -17903,8 +17903,8 @@
             "id":"ETH",
             "name":"ETHIOPIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -17991,16 +17991,16 @@
             "id":"GRD",
             "name":"GRENADA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
             "id":"GTM",
             "name":"GUATEMALA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -18023,8 +18023,8 @@
             "id":"GUY",
             "name":"GUYANA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -18129,8 +18129,8 @@
             "id":"ISR",
             "name":"ISRAEL",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -18145,8 +18145,8 @@
             "id":"JAM",
             "name":"JAMAICA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -18169,8 +18169,8 @@
             "id":"KAZ",
             "name":"KAZAKHSTAN",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -18233,16 +18233,16 @@
             "id":"LSO",
             "name":"LESOTHO",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"LBR",
             "name":"LIBERIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18313,8 +18313,8 @@
             "id":"MDV",
             "name":"MALDIVES",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18581,8 +18581,8 @@
             "id":"PNG",
             "name":"PAPUA NEW GUINEA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18597,8 +18597,8 @@
             "id":"PER",
             "name":"PERU",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -18629,8 +18629,8 @@
             "id":"PRI",
             "name":"PUERTO RICO / USA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{
                "en":"Death penalty abolished in the Constitution but remains applicable under US federal law.",
@@ -18660,8 +18660,8 @@
             "id":"RUS",
             "name":"RUSSIAN FEDERATION",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18676,24 +18676,24 @@
             "id":"KNA",
             "name":"SAINT KITTS AND NEVIS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"LCA",
             "name":"SAINT LUCIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"VCT",
             "name":"SAINT VINCENT AND THE GRENADINES",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -18812,8 +18812,8 @@
             "id":"KOR",
             "name":"SOUTH KOREA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18860,8 +18860,8 @@
             "id":"SWZ",
             "name":"SWAZILAND",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18910,16 +18910,16 @@
             "id":"TJK",
             "name":"TAJIKISTAN",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
             "id":"TZA",
             "name":"TANZANIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18950,8 +18950,8 @@
             "id":"TON",
             "name":"TONGA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -18998,8 +18998,8 @@
             "id":"UGA",
             "name":"UGANDA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19171,8 +19171,8 @@
             "id":"ATG",
             "name":"ANTIGUA AND BARBUDA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19219,8 +19219,8 @@
             "id":"BHS",
             "name":"BAHAMAS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19243,8 +19243,8 @@
             "id":"BRB",
             "name":"BARBADOS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19267,8 +19267,8 @@
             "id":"BLZ",
             "name":"BELIZE",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19315,16 +19315,16 @@
             "id":"BRA",
             "name":"BRAZIL",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"BRN",
             "name":"BRUNEI DARUSSALAM",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -19339,8 +19339,8 @@
             "id":"BFA",
             "name":"BURKINA FASO",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -19387,8 +19387,8 @@
             "id":"CAF",
             "name":"CENTRAL AFRICAN REPUBLIC",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -19403,8 +19403,8 @@
             "id":"CHL",
             "name":"CHILE",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -19437,8 +19437,8 @@
             "id":"COM",
             "name":"COMOROS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19485,8 +19485,8 @@
             "id":"CUB",
             "name":"CUBA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19533,8 +19533,8 @@
             "id":"DMA",
             "name":"DOMINICA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19565,24 +19565,24 @@
             "id":"SLV",
             "name":"EL SALVADOR",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"GNQ",
             "name":"EQUATORIAL GUINEA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"ERI",
             "name":"ERITREA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -19695,16 +19695,16 @@
             "id":"GRD",
             "name":"GRENADA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
             "id":"GTM",
             "name":"GUATEMALA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -19833,8 +19833,8 @@
             "id":"ISR",
             "name":"ISRAEL",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -19849,8 +19849,8 @@
             "id":"JAM",
             "name":"JAMAICA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -19873,8 +19873,8 @@
             "id":"KAZ",
             "name":"KAZAKHSTAN",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -19913,8 +19913,8 @@
             "id":"LAO",
             "name":"LAOS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -19937,16 +19937,16 @@
             "id":"LSO",
             "name":"LESOTHO",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"LBR",
             "name":"LIBERIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20195,8 +20195,8 @@
             "id":"NER",
             "name":"NIGER",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20305,8 +20305,8 @@
             "id":"PNG",
             "name":"PAPUA NEW GUINEA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20321,8 +20321,8 @@
             "id":"PER",
             "name":"PERU",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -20353,8 +20353,8 @@
             "id":"PRI",
             "name":"PUERTO RICO / USA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{
                "en":"Death penalty abolished in the Constitution but remains applicable under US federal law.",
@@ -20397,8 +20397,8 @@
             "id":"RUS",
             "name":"RUSSIAN FEDERATION",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20413,24 +20413,24 @@
             "id":"KNA",
             "name":"SAINT KITTS AND NEVIS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"LCA",
             "name":"SAINT LUCIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"VCT",
             "name":"SAINT VINCENT AND THE GRENADINES",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -20549,8 +20549,8 @@
             "id":"KOR",
             "name":"SOUTH KOREA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20597,8 +20597,8 @@
             "id":"SWZ",
             "name":"SWAZILAND",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20647,8 +20647,8 @@
             "id":"TJK",
             "name":"TAJIKISTAN",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20707,8 +20707,8 @@
             "id":"TON",
             "name":"TONGA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -20938,8 +20938,8 @@
             "id":"ATG",
             "name":"ANTIGUA AND BARBUDA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -20986,8 +20986,8 @@
             "id":"BHS",
             "name":"BAHAMAS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -21010,8 +21010,8 @@
             "id":"BRB",
             "name":"BARBADOS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -21034,8 +21034,8 @@
             "id":"BLZ",
             "name":"BELIZE",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -21082,16 +21082,16 @@
             "id":"BRA",
             "name":"BRAZIL",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"BRN",
             "name":"BRUNEI DARUSSALAM",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -21106,8 +21106,8 @@
             "id":"BFA",
             "name":"BURKINA FASO",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -21130,8 +21130,8 @@
             "id":"CMR",
             "name":"CAMEROON",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -21170,8 +21170,8 @@
             "id":"CHL",
             "name":"CHILE",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -21252,8 +21252,8 @@
             "id":"CUB",
             "name":"CUBA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -21300,8 +21300,8 @@
             "id":"DMA",
             "name":"DOMINICA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -21332,24 +21332,24 @@
             "id":"SLV",
             "name":"EL SALVADOR",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"GNQ",
             "name":"EQUATORIAL GUINEA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
             "id":"ERI",
             "name":"ERITREA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -21452,16 +21452,16 @@
             "id":"GRD",
             "name":"GRENADA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
             "id":"GTM",
             "name":"GUATEMALA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -21590,8 +21590,8 @@
             "id":"ISR",
             "name":"ISRAEL",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -21606,8 +21606,8 @@
             "id":"JAM",
             "name":"JAMAICA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -21694,16 +21694,16 @@
             "id":"LSO",
             "name":"LESOTHO",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"LBR",
             "name":"LIBERIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -21758,8 +21758,8 @@
             "id":"MWI",
             "name":"MALAWI",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -21870,8 +21870,8 @@
             "id":"MAR",
             "name":"MOROCCO / WESTERN SAHARA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -21992,8 +21992,8 @@
             "id":"OMN",
             "name":"OMAN",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -22058,8 +22058,8 @@
             "id":"PER",
             "name":"PERU",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST FOR ORDINARY CRIMES"
          },
          {
@@ -22090,8 +22090,8 @@
             "id":"PRI",
             "name":"PUERTO RICO / USA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST",
             "note":{
                "en":"Death penalty abolished in the Constitution but remains applicable under US federal law.",
@@ -22124,8 +22124,8 @@
             "id":"RUS",
             "name":"RUSSIAN FEDERATION",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -22140,24 +22140,24 @@
             "id":"KNA",
             "name":"SAINT KITTS AND NEVIS",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"LCA",
             "name":"SAINT LUCIA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
             "id":"VCT",
             "name":"SAINT VINCENT AND THE GRENADINES",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -22324,8 +22324,8 @@
             "id":"SWZ",
             "name":"SWAZILAND",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -22374,8 +22374,8 @@
             "id":"TJK",
             "name":"TAJIKISTAN",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -22414,8 +22414,8 @@
             "id":"TON",
             "name":"TONGA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"ABOLITIONIST IN PRACTICE"
          },
          {
@@ -22462,8 +22462,8 @@
             "id":"UGA",
             "name":"UGANDA",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          },
          {
@@ -22568,8 +22568,8 @@
             "id":"ZWE",
             "name":"ZIMBABWE",
             "since":"",
-            "executions":0,
-            "death-penalties":0,
+            "executions":"0",
+            "death-penalties":"0",
             "status":"RETENTIONIST"
          }
       ]
