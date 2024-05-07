@@ -22605,9 +22605,9 @@
    "id": "ALB",
    "name": "ALBANIA",
    "since": "2007",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "DZA",
@@ -22621,17 +22621,17 @@
    "id": "AND",
    "name": "ANDORRA",
    "since": "1990",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "AGO",
    "name": "ANGOLA",
    "since": "1992",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "ATG",
@@ -22645,41 +22645,41 @@
    "id": "ARG",
    "name": "ARGENTINA",
    "since": "2008",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "ARM",
    "name": "ARMENIA",
    "since": "2003",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "AUS",
    "name": "AUSTRALIA",
    "since": "1985",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "AUT",
    "name": "AUSTRIA",
    "since": "1968",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "AZE",
    "name": "AZERBAIJAN",
    "since": "1998",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "BHS",
@@ -22725,9 +22725,9 @@
    "id": "BEL",
    "name": "BELGIUM",
    "since": "1996",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "BLZ",
@@ -22741,33 +22741,33 @@
    "id": "BEN",
    "name": "BENIN",
    "since": "2016",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "BTN",
    "name": "BHUTAN",
    "since": "2004",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "BOL",
    "name": "BOLIVIA",
    "since": "2009",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "BIH",
    "name": "BOSNIA AND HERZEGOVINA",
    "since": "2001",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "BWA",
@@ -22797,9 +22797,9 @@
    "id": "BGR",
    "name": "BULGARIA",
    "since": "1998",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "BFA",
@@ -22813,17 +22813,17 @@
    "id": "BDI",
    "name": "BURUNDI",
    "since": "2009",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "KHM",
    "name": "CAMBODIA",
    "since": "1989",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CMR",
@@ -22837,33 +22837,33 @@
    "id": "CAN",
    "name": "CANADA",
    "since": "1998",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CPV",
    "name": "CAPE VERDE",
    "since": "1981",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CAF",
    "name": "CENTRAL AFRICAN REPUBLIC",
    "since": "2022",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "TCD",
    "name": "CHAD",
    "since": "2020",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CHL",
@@ -22895,9 +22895,9 @@
    "id": "COL",
    "name": "COLOMBIA",
    "since": "1910",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "COM",
@@ -22911,41 +22911,41 @@
    "id": "COG",
    "name": "REPUBLIC OF CONGO",
    "since": "2015",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "COK",
    "name": "COOK ISLANDS",
    "since": "2007",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CRI",
    "name": "COSTA RICA",
    "since": "1877",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CIV",
    "name": "COTE D'IVOIRE",
    "since": "2000",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "HRV",
    "name": "CROATIA",
    "since": "1990",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CUB",
@@ -22959,17 +22959,17 @@
    "id": "CYP",
    "name": "CYPRUS",
    "since": "2002",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "CZE",
    "name": "CZECH REPUBLIC",
    "since": "1990",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "COD",
@@ -22983,17 +22983,17 @@
    "id": "DNK",
    "name": "DENMARK",
    "since": "1978",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "DJI",
    "name": "DJIBOUTI",
    "since": "1995",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "DMA",
@@ -23007,17 +23007,17 @@
    "id": "DOM",
    "name": "DOMINICAN REPUBLIC",
    "since": "1966",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "ECU",
    "name": "ECUADOR",
    "since": "1906",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "EGY",
@@ -23055,9 +23055,9 @@
    "id": "EST",
    "name": "ESTONIA",
    "since": "1998",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "ETH",
@@ -23071,33 +23071,33 @@
    "id": "FJI",
    "name": "FIJI",
    "since": "2015",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "FIN",
    "name": "FINLAND",
    "since": "1972",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "FRA",
    "name": "FRANCE",
    "since": "1981",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "GAB",
    "name": "GABON",
    "since": "2010",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "GMB",
@@ -23111,17 +23111,17 @@
    "id": "GEO",
    "name": "GEORGIA",
    "since": "1997",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "DEU",
    "name": "GERMANY",
    "since": "1987",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "GHA",
@@ -23135,17 +23135,17 @@
    "id": "GRC",
    "name": "GREECE",
    "since": "2004",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "GRL",
    "name": "GREENLAND / DENMARK",
    "since": "1978",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "GRD",
@@ -23167,17 +23167,17 @@
    "id": "GIN",
    "name": "GUINEA",
    "since": "2017",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "GNB",
    "name": "GUINEA-BISSAU",
    "since": "1993",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "GUY",
@@ -23191,49 +23191,49 @@
    "id": "HTI",
    "name": "HAITI",
    "since": "1987",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "VAT",
    "name": "VATICAN CITY",
    "since": "1969",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "HND",
    "name": "HONDURAS",
    "since": "1956",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "HKG",
    "name": "HONG KONG",
    "since": "1993",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "HUN",
    "name": "HUNGARY",
    "since": "1990",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "ISL",
    "name": "ICELAND",
    "since": "1928",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "IND",
@@ -23281,9 +23281,9 @@
    "id": "IRL",
    "name": "IRELAND",
    "since": "1990",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "ISR",
@@ -23297,9 +23297,9 @@
    "id": "ITA",
    "name": "ITALY",
    "since": "1994",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "JAM",
@@ -23329,9 +23329,9 @@
    "id": "KAZ",
    "name": "KAZAKHSTAN",
    "since": "2022",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "KEN",
@@ -23345,17 +23345,17 @@
    "id": "KIR",
    "name": "KIRIBATI",
    "since": "NA",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "RKS",
    "name": "KOSOVO",
    "since": "1999 (UNMIK/REG/1999/24)",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "KWT",
@@ -23369,9 +23369,9 @@
    "id": "KGZ",
    "name": "KYRGYZSTAN",
    "since": "2007",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "LAO",
@@ -23385,9 +23385,9 @@
    "id": "LVA",
    "name": "LATVIA",
    "since": "2012",
-   "executions": "0",
-   "death-penalties": "0",
-   "status": "ABOLITIONIST"
+  "executions":"",
+            "death-penalties":"",
+            "status":"ABOLITIONIST"
  },
  {
    "id": "LBN",
