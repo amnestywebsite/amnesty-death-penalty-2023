@@ -22878,7 +22878,7 @@
    "name": "CHINA",
    "since": "",
    "executions": "1000s",
-   "death-penalties": "+",
+   "death-penalties": "1000s",
    "status": "RETENTIONIST",
             "note":{
                "en":"In 2009 Amnesty International stopped publishing our estimated figures on the use of the death penalty in China in a challenge to the country’s secrecy. China continues to classify such figures as a state secret. Our monitoring indicates that China remains the world’s top executioner.",
@@ -23832,7 +23832,7 @@
    "name": "RUSSIA",
    "since": "",
    "executions": "0",
-   "death-penalties": "",
+   "death-penalties": "0",
    "status": "ABOLITIONIST IN PRACTICE"
  },
  {
@@ -23848,7 +23848,7 @@
    "name": "SAINT KITTS AND NEVIS",
    "since": "",
    "executions": "0",
-   "death-penalties": "",
+   "death-penalties": "0",
    "status": "RETENTIONIST"
  },
  {
@@ -23856,7 +23856,7 @@
    "name": "SAINT LUCIA",
    "since": "",
    "executions": "0",
-   "death-penalties": "",
+   "death-penalties": "0",
    "status": "RETENTIONIST"
  },
  {
@@ -23864,7 +23864,7 @@
    "name": "SAINT VINCENT AND GRENADINES",
    "since": "",
    "executions": "0",
-   "death-penalties": "",
+   "death-penalties": "0",
    "status": "RETENTIONIST"
  },
  {
